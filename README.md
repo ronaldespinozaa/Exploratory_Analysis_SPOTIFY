@@ -1,7 +1,5 @@
 # Exploración de Datos de Spotify 🎧📊
 
-![logo](./logo-vector-spotify.jpg)
-
 ¡Bienvenido a mi repositorio! Aquí encontrarás un análisis detallado de las canciones en Spotify. ¡Sumérgete en las melodías, ritmos y características que hacen que tus canciones favoritas sean tan pegajosas!
 
 ## Resumen del Proyecto 🎶
